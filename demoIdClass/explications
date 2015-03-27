@@ -1,0 +1,2 @@
+dans cet exemple, le client ne peut commander qu'une seule fois un produit, d'ou le ManyToOne,
+il faudrait une table ligne de commande en plus pour que le cas soit plus réel
